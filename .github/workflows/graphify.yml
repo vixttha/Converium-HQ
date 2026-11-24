@@ -30,20 +30,9 @@ jobs:
           "$RUNNER_TEMP/graphify-env/bin/python" -B tools/graphify_hq.py "$RUNNER_TEMP/converium-graph"
           "$RUNNER_TEMP/graphify-env/bin/python" -B -m unittest discover -s graphify/tests -p test_graphify.py -v
           cmp graphify/receipt.json "$RUNNER_TEMP/converium-graph/receipt.json"
+          cmp graphify/archive/graph.json "$RUNNER_TEMP/converium-graph/graph.json"
+          cmp graphify/archive/semantic.json "$RUNNER_TEMP/converium-graph/semantic.json"
           test -z "$(git status --porcelain)"
-      - name: Emit bounded public graph bytes for archival
-        run: |
-          python3 - <<'PY'
-          import base64, os
-          from pathlib import Path
-          root=Path(os.environ["RUNNER_TEMP"])/"converium-graph"
-          for name in ("graph.json","semantic.json"):
-              raw=(root/name).read_bytes()
-              if len(raw)>250000: raise ValueError("graph archive size limit")
-              s=base64.b64encode(raw).decode("ascii")
-              chunks=[s[i:i+3000] for i in range(0,len(s),3000)]
-              for i,chunk in enumerate(chunks): print(f"PUBLIC_GRAPH {name} {i+1}/{len(chunks)} {chunk}")
-          PY
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
         with:
           name: converium-graph-${{ github.run_id }}-${{ github.run_attempt }}
