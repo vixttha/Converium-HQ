@@ -61,7 +61,8 @@ def lydite(root):
             env={**os.environ,"PYTHONDONTWRITEBYTECODE":"1","VAULT_EXAMPLE_PYTHON":sys.executable,
                  "VAULT_EXAMPLE_RECEIPTS":str(receipts),"VAULT_EXAMPLE_EVIDENCE":str(evidence)}
             out=cmd(adopter,"node",rel+"run-node.mjs",env=env)
-            require(re.search(r"(?m)^# pass "+str(expected)+r"\s*$",out),"unexpected native test count")
+            counts=re.findall(r"(?m)^(?:#|ℹ)\s+pass\s+(\d+)\s*$",out)
+            require(counts==[str(expected)],"unexpected native test count: "+str(counts))
             cmd(adopter,sys.executable,rel+"check.py",env=env)
             result=cmd(adopter,sys.executable,"test-vault/verify_receipts.py","--case",rel+"case.json","--receipts",str(receipts),"--evidence",str(evidence),env=env)
             receipt=json.loads((receipts/"node.json").read_text())
