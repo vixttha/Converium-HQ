@@ -1,0 +1,1383 @@
+{
+  "nodes": [
+    {
+      "id": "hq",
+      "label": "Converium HQ (knowledge only)",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "product:vib",
+      "label": "Version-Issues-Hub",
+      "file_type": "concept",
+      "source_file": "products/registry.json",
+      "source_location": null
+    },
+    {
+      "id": "product:provenistem",
+      "label": "Provenistem",
+      "file_type": "concept",
+      "source_file": "products/registry.json",
+      "source_location": null
+    },
+    {
+      "id": "product:lydite",
+      "label": "Lydite Test Vault",
+      "file_type": "concept",
+      "source_file": "products/registry.json",
+      "source_location": null
+    },
+    {
+      "id": "product:veraphify",
+      "label": "Veraphify",
+      "file_type": "concept",
+      "source_file": "products/registry.json",
+      "source_location": null
+    },
+    {
+      "id": "product:readme-hq",
+      "label": "README HQ",
+      "file_type": "concept",
+      "source_file": "products/registry.json",
+      "source_location": null
+    },
+    {
+      "id": "product:brand-identity",
+      "label": "Brand Identity",
+      "file_type": "concept",
+      "source_file": "products/registry.json",
+      "source_location": null
+    },
+    {
+      "id": "external:bart",
+      "label": "BART (external adopter)",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "law:1",
+      "label": "Independence",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "law:2",
+      "label": "Composability",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "law:3",
+      "label": "Portability",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "law:4",
+      "label": "Persistence",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "law:5",
+      "label": "Verification",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "law:6",
+      "label": "Owner authority",
+      "file_type": "concept",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null
+    },
+    {
+      "id": "decision:ENGINEERING-ECOSYSTEM-LAWS-001",
+      "label": "ENGINEERING-ECOSYSTEM-LAWS-001",
+      "file_type": "concept",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null
+    },
+    {
+      "id": "decision:HQ-001",
+      "label": "HQ-001",
+      "file_type": "concept",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null
+    },
+    {
+      "id": "decision:HQ-002",
+      "label": "HQ-002",
+      "file_type": "concept",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null
+    },
+    {
+      "id": "decision:HQ-003",
+      "label": "HQ-003",
+      "file_type": "concept",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null
+    },
+    {
+      "id": "case:D01",
+      "label": "D01 self-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D02",
+      "label": "D02 self-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D03",
+      "label": "D03 self-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D04",
+      "label": "D04 self-validation",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D05",
+      "label": "D05 self-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D06",
+      "label": "D06 self-validation",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D07",
+      "label": "D07 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D08",
+      "label": "D08 verified-draft",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D09",
+      "label": "D09 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D10",
+      "label": "D10 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D11",
+      "label": "D11 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D12",
+      "label": "D12 integrated",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D13",
+      "label": "D13 integrated",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D14",
+      "label": "D14 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D15",
+      "label": "D15 integrated",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D16",
+      "label": "D16 integrated",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D17",
+      "label": "D17 integrated",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D18",
+      "label": "D18 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D19",
+      "label": "D19 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D20",
+      "label": "D20 feedback",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D21",
+      "label": "D21 feedback",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D22",
+      "label": "D22 external-adopter",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    },
+    {
+      "id": "case:D23",
+      "label": "D23 adopter-use",
+      "file_type": "concept",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "hq",
+      "target": "product:vib",
+      "relation": "indexes_product",
+      "source_file": "products/registry.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "product:provenistem",
+      "relation": "indexes_product",
+      "source_file": "products/registry.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "product:lydite",
+      "relation": "indexes_product",
+      "source_file": "products/registry.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "product:veraphify",
+      "relation": "indexes_product",
+      "source_file": "products/registry.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "product:readme-hq",
+      "relation": "indexes_product",
+      "source_file": "products/registry.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "product:brand-identity",
+      "relation": "indexes_product",
+      "source_file": "products/registry.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "law:1",
+      "relation": "records_law",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "law:2",
+      "relation": "records_law",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "law:3",
+      "relation": "records_law",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "law:4",
+      "relation": "records_law",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "law:5",
+      "relation": "records_law",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "law:6",
+      "relation": "records_law",
+      "source_file": "CONSTITUTION.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "decision:ENGINEERING-ECOSYSTEM-LAWS-001",
+      "relation": "records_decision",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "decision:HQ-001",
+      "relation": "records_decision",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "decision:HQ-002",
+      "relation": "records_decision",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "decision:HQ-003",
+      "relation": "records_decision",
+      "source_file": "history/DECISIONS.md",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D01",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "case:D01",
+      "relation": "provider_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D01",
+      "target": "product:provenistem",
+      "relation": "beneficiary_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D02",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:vib",
+      "target": "case:D02",
+      "relation": "provider_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D02",
+      "target": "product:vib",
+      "relation": "beneficiary_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D03",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:lydite",
+      "target": "case:D03",
+      "relation": "provider_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D03",
+      "target": "product:lydite",
+      "relation": "beneficiary_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D04",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "case:D04",
+      "relation": "provider_self-validation",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D04",
+      "target": "product:veraphify",
+      "relation": "beneficiary_self-validation",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D05",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "case:D05",
+      "relation": "provider_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D05",
+      "target": "product:readme-hq",
+      "relation": "beneficiary_self-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D06",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:brand-identity",
+      "target": "case:D06",
+      "relation": "provider_self-validation",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D06",
+      "target": "product:brand-identity",
+      "relation": "beneficiary_self-validation",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D07",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "case:D07",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D07",
+      "target": "product:vib",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D08",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "case:D08",
+      "relation": "provider_verified-draft",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D08",
+      "target": "product:lydite",
+      "relation": "beneficiary_verified-draft",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D09",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "case:D09",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D09",
+      "target": "product:brand-identity",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D10",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "case:D10",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D10",
+      "target": "product:readme-hq",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D11",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "case:D11",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D11",
+      "target": "product:provenistem",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D12",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "case:D12",
+      "relation": "provider_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D12",
+      "target": "product:lydite",
+      "relation": "beneficiary_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D13",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "case:D13",
+      "relation": "provider_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D13",
+      "target": "product:readme-hq",
+      "relation": "beneficiary_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D14",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "case:D14",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D14",
+      "target": "product:vib",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D15",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:lydite",
+      "target": "case:D15",
+      "relation": "provider_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D15",
+      "target": "product:veraphify",
+      "relation": "beneficiary_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D16",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:lydite",
+      "target": "case:D16",
+      "relation": "provider_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D16",
+      "target": "product:brand-identity",
+      "relation": "beneficiary_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D17",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "case:D17",
+      "relation": "provider_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D17",
+      "target": "product:veraphify",
+      "relation": "beneficiary_integrated",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D18",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "case:D18",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D18",
+      "target": "product:vib",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D19",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:brand-identity",
+      "target": "case:D19",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D19",
+      "target": "product:veraphify",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D20",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:lydite",
+      "target": "case:D20",
+      "relation": "provider_feedback",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D20",
+      "target": "product:provenistem",
+      "relation": "beneficiary_feedback",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D21",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "case:D21",
+      "relation": "provider_feedback",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D21",
+      "target": "product:readme-hq",
+      "relation": "beneficiary_feedback",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D22",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:vib",
+      "target": "case:D22",
+      "relation": "provider_external-adopter",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D22",
+      "target": "external:bart",
+      "relation": "beneficiary_external-adopter",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "hq",
+      "target": "case:D23",
+      "relation": "indexes_case",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "case:D23",
+      "relation": "provider_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "case:D23",
+      "target": "product:veraphify",
+      "relation": "beneficiary_adopter-use",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:brand-identity",
+      "target": "product:veraphify",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:lydite",
+      "target": "product:brand-identity",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:lydite",
+      "target": "product:veraphify",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:brand-identity",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:lydite",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:readme-hq",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:veraphify",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:vib",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "product:veraphify",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "product:vib",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:lydite",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:provenistem",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:readme-hq",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:vib",
+      "relation": "observed_operational",
+      "source_file": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_location": null,
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    }
+  ],
+  "operational_evidence": [
+    {
+      "source": "product:brand-identity",
+      "target": "product:veraphify",
+      "cases": [
+        "D19"
+      ]
+    },
+    {
+      "source": "product:lydite",
+      "target": "product:brand-identity",
+      "cases": [
+        "D16"
+      ]
+    },
+    {
+      "source": "product:lydite",
+      "target": "product:veraphify",
+      "cases": [
+        "D15"
+      ]
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:brand-identity",
+      "cases": [
+        "D09"
+      ]
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:lydite",
+      "cases": [
+        "D08"
+      ]
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:readme-hq",
+      "cases": [
+        "D10"
+      ]
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:veraphify",
+      "cases": [
+        "D23"
+      ]
+    },
+    {
+      "source": "product:provenistem",
+      "target": "product:vib",
+      "cases": [
+        "D07"
+      ]
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "product:veraphify",
+      "cases": [
+        "D17"
+      ]
+    },
+    {
+      "source": "product:readme-hq",
+      "target": "product:vib",
+      "cases": [
+        "D18"
+      ]
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:lydite",
+      "cases": [
+        "D12"
+      ]
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:provenistem",
+      "cases": [
+        "D11"
+      ]
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:readme-hq",
+      "cases": [
+        "D13"
+      ]
+    },
+    {
+      "source": "product:veraphify",
+      "target": "product:vib",
+      "cases": [
+        "D14"
+      ]
+    }
+  ]
+}

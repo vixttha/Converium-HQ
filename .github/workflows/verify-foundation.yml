@@ -1,7 +1,7 @@
 name: Converium foundation verification
 on:
   push:
-    branches: ['foundation/v0.0.1-v0.0.3', 'main']
+    branches: ['foundation/v0.0.1-v0.0.3', 'work/v0.0.4-graphify', 'main']
   pull_request:
     branches: ['main']
 permissions:

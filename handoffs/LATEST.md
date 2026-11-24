@@ -1,7 +1,7 @@
-# Latest handoff — foundation mission
+# Latest handoff — v0.0.4–v0.0.8 candidate
 
-Head: owner-directed HQ-only scope. Worker: preserve law, registry and evidence in review branch. Validate: GitHub public hosted checks, source and manifest verification. Internal Auditor: reconcile results, exact source and product authority. Head: return evidence for owner integration decision.
+Accepted foundation remains [PR #2](https://github.com/vixttha/Converium-HQ/pull/2), commit dc77ba9abe1e18fb9d27a12814213ce9acded31a; main run 45376454437 passed. No new merge or release approved.
 
-Read [current state](../STATE.md), [constitution](../CONSTITUTION.md), [decision ledger](../history/DECISIONS.md), [product registry](../products/README.md), [evidence](../evidence/README.md) and [roadmap](../roadmap/README.md). Canonical issue: [#1](https://github.com/vixttha/Converium-HQ/issues/1). Branch: foundation/v0.0.1-v0.0.3.
+[Graphify #3](https://github.com/vixttha/Converium-HQ/issues/3) verified at ef1e2321de6771819835c70749f1e8eca0662171, [receipt](../graphify/VERIFICATION.md). [Notion #4](https://github.com/vixttha/Converium-HQ/issues/4) dashboard created, [guide](../notion/README.md). [Recovery #5](https://github.com/vixttha/Converium-HQ/issues/5) [rubric](../recovery/README.md); [Notion trial](../recovery/TRIAL-1.md) 6/8 full passes, two partial; [targeted retest](../recovery/TRIAL-2.md) recovered the receipt and corrected package provenance; fresh ChatGPT still pending. [Brand #6](https://github.com/vixttha/Converium-HQ/issues/6) [concepts](../brand/README.md) pending owner selection and legal clearance. [Commercial #7](https://github.com/vixttha/Converium-HQ/issues/7) [strategy](../commercial/README.md) pending owner rights and offer decisions.
 
-Next authorized action: finish and validate foundation; do not release or change product repositories. Next proposed milestone: Graphify v0.0.4 after foundation review. Fresh independent recovery remains to be tested in v0.0.6.
+Head → Worker → Validate → Internal Auditor → Head. Work remains on `work/v0.0.4-graphify`. Validate actual Graphify export and evidence plus combined public runner checks. Preserve the accepted baseline and all six product repositories. Return exact review head, residual blockers and evidence to owner. No v0.1.0 integration or launch.
