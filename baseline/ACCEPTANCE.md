@@ -1,5 +1,7 @@
 # v0.1.0 baseline review — not a release
 
+> **Current status (2026-11-24):** [v0.1.0 accepted knowledge-only baseline](V0.1.0.md). PR #11 merged and exact main checks passed; outstanding recovery, brand, licensing and launch gates explicitly deferred. Prior candidate wording below is historical, not current status. HQ is now maintenance-only; return to independent product work.
+
 [Issue #9](https://github.com/vixttha/Converium-HQ/issues/9). Integrated knowledge expansion [PR #8](https://github.com/vixttha/Converium-HQ/pull/8) at b913f99149d1e9ac44727a1226fafef2f2f1d9a1. Exact tree da645ceb1867318f4968913e25c9c196a96b5343 matches the reviewed head and merge simulation. CodeRabbit [review](https://github.com/vixttha/Converium-HQ/pull/8#issuecomment-7129611980) returned no actionable comments, minimal assessed risk, explicitly excluded three SVGs. No architecture-level concerns, not an exhaustive security audit. Its inability to independently confirm CI is resolved by exact [main foundation run 45383486121](https://github.com/vixttha/Converium-HQ/actions/runs/45383486121) and [main Graphify run 45383486118](https://github.com/vixttha/Converium-HQ/actions/runs/45383486118), both success, 14 + 6 tests. Issues #3 and #4 closed completed.
 
 | Gate | State |
