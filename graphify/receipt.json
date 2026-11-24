@@ -1,0 +1,24 @@
+{
+  "source_commit": "dc77ba9abe1e18fb9d27a12814213ce9acded31a",
+  "input_sha256": {
+    "CONSTITUTION.md": "251bc351378817b20036a8119a634381089f18bbc566a95252486413eaa8322d",
+    "products/registry.json": "ae5e05f390fc96ecb4157b05a873ec0c19ccc30de852ddc47e7dd37898a72e3f",
+    "history/DECISIONS.md": "e22961fa73e9a420cba646e2549f6e8f7b896c1baa6871ff27f055dfdc9c88d4",
+    "evidence/imported/2026-11-24/dogfooding-evidence.json": "d4edb55cd53a3151762aca21394eb10ba40f151f8baca54764203e94a34ab254",
+    "evidence/manifest.json": "f2e956c8c4a7f364584cd0743c21b8bae5a05af2df7a86fd0048af069d4a4711"
+  },
+  "producer": {
+    "repository": "vixttha/Blender-Agent-Refinement-Toolkit",
+    "commit": "6af3c2025be3f51e02dca4e4502088c526aae6d1",
+    "lock": "versions/v0.0.8/requirements.txt",
+    "blob": "7fb87d30171f43c660d6c901e6bf5639bf6b75fa",
+    "graphify_version": "0.9.109"
+  },
+  "graphify_version": "0.9.109",
+  "nodes": 41,
+  "edges": 99,
+  "operational_edges": 14,
+  "graph_sha256": "13380851515de57f7e3d4cc6dad3dbf40d2b1512dca052c49735a1cc4076c7ae",
+  "semantic_sha256": "a876c5d236e835157b111021e8ff22ed15a7c4d8697c734d31261d0059127404",
+  "mcp_verified": true
+}
