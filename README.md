@@ -1,5 +1,7 @@
 # Converium HQ
 
+> **Current status (2026-11-24):** [v0.1.0 accepted knowledge-only baseline](baseline/V0.1.0.md). PR #11 merged and exact main checks passed; outstanding recovery, brand, licensing and launch gates explicitly deferred. Prior candidate wording below is historical, not current status. HQ is now maintenance-only; return to independent product work.
+
 **Independent tools. Collective capability.**
 
 Converium is the knowledge headquarters for six independent engineering products. It preserves the architecture, decisions, development history and reproducible evidence that help humans and compatible agents recover context across sessions. It is not a seventh tool, a shared runtime, a monorepo or an orchestrator.

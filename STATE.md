@@ -1,5 +1,7 @@
 # Converium state
 
+> **Current status (2026-11-24):** [v0.1.0 accepted knowledge-only baseline](baseline/V0.1.0.md). PR #11 merged and exact main checks passed; outstanding recovery, brand, licensing and launch gates explicitly deferred. Prior candidate wording below is historical, not current status. HQ is now maintenance-only; return to independent product work.
+
 Observation date: 2026-11-24. Foundation mission [#1](https://github.com/vixttha/Converium-HQ/issues/1). HQ knowledge only; no product release authority.
 
 ## Accepted architecture
