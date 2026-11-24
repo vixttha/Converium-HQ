@@ -1,6 +1,6 @@
 # v0.0.4 — Graphify ecosystem mapping
 
-Status: implementation verified at ef1e2321de6771819835c70749f1e8eca0662171; see [verification receipt](VERIFICATION.md). Combined candidate revalidation pending. [Issue #3](https://github.com/vixttha/Converium-HQ/issues/3). Accepted baseline: [dc77ba9abe1e18fb9d27a12814213ce9acded31a](https://github.com/vixttha/Converium-HQ/tree/dc77ba9abe1e18fb9d27a12814213ce9acded31a).
+Status: implementation verified at ef1e2321de6771819835c70749f1e8eca0662171; see [verification receipt](VERIFICATION.md). Durable graph archived and combined candidate validated at be981d85c1ea8dad752e78038f1d6abfc4e3c1c3. Subsequent candidate changes require exact-head validation. [Issue #3](https://github.com/vixttha/Converium-HQ/issues/3). Accepted baseline: [dc77ba9abe1e18fb9d27a12814213ce9acded31a](https://github.com/vixttha/Converium-HQ/tree/dc77ba9abe1e18fb9d27a12814213ce9acded31a).
 
 ## Scope and acceptance
 

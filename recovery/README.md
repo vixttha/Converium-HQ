@@ -21,4 +21,4 @@ Mechanical recovery checks separately validate evidence navigation and the accep
 
 ## Trial result
 
-[Trial 1](TRIAL-1.md): six full passes and two partial criteria; distinct fresh ChatGPT session remains outstanding. Mechanical tests are not a substitute. Re-test the durable receipt and stale-source handling on the final candidate.
+[Trial 1](TRIAL-1.md): six full passes and two partial criteria; distinct fresh ChatGPT session remains outstanding. Mechanical tests are not a substitute. [Targeted retest](TRIAL-2.md) recovered receipt details and eliminated the false package-name concern; direct main-run metadata remained unavailable to the test agent. Fresh ChatGPT remains pending.

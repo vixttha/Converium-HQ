@@ -12,7 +12,7 @@ Six independent products; shared knowledge, not shared software architecture. Th
 
 - [Graphify #3](https://github.com/vixttha/Converium-HQ/issues/3): 41 nodes / 99 edges; 14 operational relationships; [public verification](graphify/VERIFICATION.md).
 - [Notion #4](https://github.com/vixttha/Converium-HQ/issues/4): private dashboard created and read back; [navigation guidance](notion/README.md).
-- [Recovery #5](https://github.com/vixttha/Converium-HQ/issues/5): [rubric](recovery/README.md) and mechanical checks prepared; Notion trial [6/8 full passes](recovery/TRIAL-1.md), two partial; fresh ChatGPT and independent retest remain pending.
+- [Recovery #5](https://github.com/vixttha/Converium-HQ/issues/5): [rubric](recovery/README.md) and mechanical checks prepared; Notion trial [6/8 full passes](recovery/TRIAL-1.md), two partial; [targeted retest](recovery/TRIAL-2.md) recovered Graphify receipt details; fresh ChatGPT and direct run retrieval from that harness remain pending.
 - [Brand #6](https://github.com/vixttha/Converium-HQ/issues/6): three [vector concepts](brand/README.md); owner selection and name clearance pending.
 - [Commercial #7](https://github.com/vixttha/Converium-HQ/issues/7): [strategy](commercial/README.md) and rights inventory prepared; owner decisions and launch gates pending.
 
