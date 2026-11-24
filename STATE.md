@@ -8,5 +8,13 @@ Six independent products; shared knowledge, not shared software architecture. Th
 ## Evidence already established
 23 dogfooding cases, 14 directed cross-product operational relationships, 22 distinct source files, 21 historical workflow runs. The latest historical evidence readback and compatibility runs succeeded at the exact originating revision (see [evidence](evidence/README.md)). All 63 nonempty combinations plus zero-tool baseline, 192 native smoke checks, two negative controls. This is mechanical fixture coexistence, not 63 live remote installs or universal interoperability. Practical usefulness demonstrated; quantitative comparative productivity improvement not established.
 
+## Candidate v0.0.4–v0.0.8
+
+- [Graphify #3](https://github.com/vixttha/Converium-HQ/issues/3): 41 nodes / 99 edges; 14 operational relationships; [public verification](graphify/VERIFICATION.md).
+- [Notion #4](https://github.com/vixttha/Converium-HQ/issues/4): private dashboard created and read back; [navigation guidance](notion/README.md).
+- [Recovery #5](https://github.com/vixttha/Converium-HQ/issues/5): [rubric](recovery/README.md) and mechanical checks prepared; fresh-session outcome and separate ChatGPT test must be reconciled.
+- [Brand #6](https://github.com/vixttha/Converium-HQ/issues/6): three [vector concepts](brand/README.md); owner selection and name clearance pending.
+- [Commercial #7](https://github.com/vixttha/Converium-HQ/issues/7): [strategy](commercial/README.md) and rights inventory prepared; owner decisions and launch gates pending.
+
 ## Next scope
-Develop v0.0.4 under [issue #3](https://github.com/vixttha/Converium-HQ/issues/3) and [Graphify plan](graphify/PLAN.md). Mapping verification and integration are still pending. See [roadmap](roadmap/README.md). Do not infer owner merge/release approval or make product changes.
+Validate the combined candidate and review actual recovery results. Do not infer owner merge/release approval or modify individual products. v0.1.0 remains planned; not authorized by candidate completion.

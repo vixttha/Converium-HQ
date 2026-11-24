@@ -1,0 +1,65 @@
+{
+  "observed_date": "2026-11-24",
+  "status": "planning-only",
+  "entries": [
+    {
+      "id": "vib",
+      "repository": "vixttha/Version-Issues-Hub",
+      "commit": "4fc9ac47462101b941ea2f78fc939d42a9de0032",
+      "notice": null,
+      "status": "no-product-level-grant-observed"
+    },
+    {
+      "id": "provenistem",
+      "repository": "vixttha/Provenistem",
+      "commit": "d64d0c73538e79af0292642c1f23bafe2e979ec0",
+      "notice": {
+        "path": "packages/provenistem/LICENSE",
+        "blob": "2fca5f35039b9b1eb3c3d193219411a9cf0765f1",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required"
+    },
+    {
+      "id": "lydite",
+      "repository": "vixttha/Lydite-Test-Vault-Template",
+      "commit": "eae4c9d9d56ed132b400d7c0f56a9babfe5cba07",
+      "notice": {
+        "path": "starter/test-vault/LICENSE",
+        "blob": "30e65839065c0ea88ca00a2de47d65de4313e154",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required"
+    },
+    {
+      "id": "veraphify",
+      "repository": "vixttha/Veraphify",
+      "commit": "add4a029312c958a5e126990fc49e802c0112c27",
+      "notice": {
+        "path": "LICENSE",
+        "blob": "1466aeaa07d9f7fd502ca697353b5feace5f4e5a",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required"
+    },
+    {
+      "id": "readme-hq",
+      "repository": "vixttha/README-HQ",
+      "commit": "b1bbc9a72a5193afcaeaf823f097753070bfa43f",
+      "notice": null,
+      "status": "no-product-level-grant-observed"
+    },
+    {
+      "id": "brand-identity",
+      "repository": "vixttha/Brand-Identity-Template",
+      "commit": "74a4666404fb4aa427881d0907cacbc8c65e2cfc",
+      "notice": {
+        "path": "brand-identity/LICENSE",
+        "blob": "3a31b6b1dcedea9bb0ca27243d3d7b0cb504a4f5",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required"
+    }
+  ],
+  "distribution_approved": false
+}
