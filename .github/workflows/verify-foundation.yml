@@ -1,0 +1,23 @@
+name: Converium foundation verification
+on:
+  push:
+    branches: ['foundation/v0.0.1-v0.0.3', 'main']
+  pull_request:
+    branches: ['main']
+permissions:
+  contents: read
+jobs:
+  records:
+    if: github.repository == 'vixttha/Converium-HQ' && github.event.repository.private == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Verify structure, navigation and exact source archive
+        run: python3 -B tools/verify_foundation.py --remote
+      - name: Run positive and negative regression controls
+        run: python3 -B -m unittest discover -s tests -v
+      - name: Verify tracked checkout unchanged
+        run: test -z "$(git status --porcelain)"

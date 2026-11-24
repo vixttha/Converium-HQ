@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "origin": {
+    "repository": "vixttha/Version-Issues-Hub",
+    "commit": "9d4699fb5dc8c6fb6b2fe31af0a1bc554f862cf1"
+  },
+  "files": [
+    {
+      "path": "evidence/imported/2026-11-24/README.md",
+      "source_path": "ecosystem-validation/README.md",
+      "blob": "5bf65166f40c745655e20cd7b2bcda65856e1f4a"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/COMMERCIAL-OFFER.md",
+      "source_path": "ecosystem-validation/COMMERCIAL-OFFER.md",
+      "blob": "9983a2dde4d7134ee492c0309e0c3bf3a5bdd3d6"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/HISTORICAL-DOGFOODING.md",
+      "source_path": "ecosystem-validation/HISTORICAL-DOGFOODING.md",
+      "blob": "061f98e69120a1236d23a9ff84aee69d8a02fd77"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/VERIFICATION.md",
+      "source_path": "ecosystem-validation/VERIFICATION.md",
+      "blob": "d0d3c1a86824658ac9b1636a0a19b6706f7634d8"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/benchmark-pilot-1.md",
+      "source_path": "ecosystem-validation/benchmark-pilot-1.md",
+      "blob": "72a565bd121d993e7a5b53c6ce7b940ae19f6cab"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/discovery.py",
+      "source_path": "ecosystem-validation/discovery.py",
+      "blob": "b4983f2c27719823ffc84c6e1aeac32932826f38"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "source_path": "ecosystem-validation/dogfooding-evidence.json",
+      "blob": "5a8354dc8a634c7c854fca8d5bf20ef545c211d8"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/pins.json",
+      "source_path": "ecosystem-validation/pins.json",
+      "blob": "6827bb86cf2064ca816e8c625d26fe48165dd92e"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/verify-dogfooding.py",
+      "source_path": "ecosystem-validation/verify-dogfooding.py",
+      "blob": "673e9114763ad645169a1e6122973e757b6682ce"
+    }
+  ],
+  "counts": {
+    "cases": 23,
+    "source_pins": 22,
+    "distinct_runs": 21,
+    "internal_cross_product_operational_edges": 14,
+    "external_adopter_cases": 1
+  },
+  "verification": {
+    "historical_readback": 45358103079,
+    "compatibility": 45358103143,
+    "attempt": 1,
+    "configuration_count": 64,
+    "nonempty_count": 63,
+    "native_smokes": 192,
+    "negative_controls": 2
+  }
+}
