@@ -18,3 +18,7 @@
 Test intake snapshot: [ef1e2321de6771819835c70749f1e8eca0662171](https://github.com/vixttha/Converium-HQ/tree/ef1e2321de6771819835c70749f1e8eca0662171). Score each criterion on explicit evidence; missing or incorrect is not a pass. No claim about independent model identity unless measured. Fresh Notion custom-agent session is a separate harness trial, not a fresh ChatGPT conversation. The latter must be initiated separately by the owner; no synthetic fixture or current conversation qualifies. Preserve private session details in the private dashboard, never in public Git.
 
 Mechanical recovery checks separately validate evidence navigation and the accepted baseline snapshot; they do not constitute an LLM trial. The owner controls v0.1.0 acceptance. 
+
+## Trial result
+
+[Trial 1](TRIAL-1.md): six full passes and two partial criteria; distinct fresh ChatGPT session remains outstanding. Mechanical tests are not a substitute. Re-test the durable receipt and stale-source handling on the final candidate.

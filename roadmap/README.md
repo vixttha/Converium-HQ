@@ -9,7 +9,7 @@ These versions describe knowledge-repository maturity, not product releases.
 | v0.0.3 | Historical evidence library | Preserve exact audit records, manifest, reproducible validation and honest claims | Accepted |
 | v0.0.4 | Graphify ecosystem mapping | Pin a graph of products, decisions and evidence; verify actual links and graph receipt | Verified candidate |
 | v0.0.5 | Notion knowledge dashboard | Read-only navigation and source links, no duplicate canonical records | Implemented candidate |
-| v0.0.6 | Fresh-agent knowledge recovery | Fresh ChatGPT and alternative compatible harness reconstruct state, identify stale sources, respect boundaries | Trial / gates pending |
+| v0.0.6 | Fresh-agent knowledge recovery | Fresh ChatGPT and alternative compatible harness reconstruct state, identify stale sources, respect boundaries | Notion trial 6/8 full passes; fresh ChatGPT pending |
 | v0.0.7 | Brand identity | Owner-approved visual system and name review, no assumed trademark clearance | Candidate; owner and clearance pending |
 | v0.0.8 | Commercial strategy | Audience, license scope, honest evidence claims, offer and owner decisions | Candidate; owner decisions pending |
 | v0.1.0 | First accepted HQ baseline | Review all prior gates, resolve or explicitly defer blockers, owner approves exact baseline | Planned |
