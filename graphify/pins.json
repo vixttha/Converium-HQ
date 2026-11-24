@@ -1,0 +1,43 @@
+{
+  "repository": "vixttha/Converium-HQ",
+  "source_commit": "dc77ba9abe1e18fb9d27a12814213ce9acded31a",
+  "inputs": [
+    {
+      "path": "CONSTITUTION.md",
+      "blob": "c362089183535c4568f373e6197a799712e46bc8"
+    },
+    {
+      "path": "products/registry.json",
+      "blob": "0b9e226e1bd3906a04b75934be3b779e43173712"
+    },
+    {
+      "path": "history/DECISIONS.md",
+      "blob": "a29473c1b88c92188e8f5ac430a6111b578fd4de"
+    },
+    {
+      "path": "evidence/imported/2026-11-24/dogfooding-evidence.json",
+      "blob": "5a8354dc8a634c7c854fca8d5bf20ef545c211d8"
+    },
+    {
+      "path": "evidence/manifest.json",
+      "blob": "9146f6269ebf63e7ee406e9f2eeda4962a91505f"
+    }
+  ],
+  "producer": {
+    "repository": "vixttha/Blender-Agent-Refinement-Toolkit",
+    "commit": "6af3c2025be3f51e02dca4e4502088c526aae6d1",
+    "lock": "versions/v0.0.8/requirements.txt",
+    "blob": "7fb87d30171f43c660d6c901e6bf5639bf6b75fa",
+    "graphify_version": "0.9.109"
+  },
+  "expected": {
+    "products": 6,
+    "laws": 6,
+    "decisions": 4,
+    "cases": 23,
+    "operational_edges": 14,
+    "feedback": 2,
+    "self": 6,
+    "external": 1
+  }
+}

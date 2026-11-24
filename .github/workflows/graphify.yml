@@ -1,0 +1,37 @@
+name: Converium Graphify validation
+on:
+  push:
+    branches: ['work/v0.0.4-graphify', 'main']
+  pull_request:
+    branches: ['main']
+permissions:
+  contents: read
+jobs:
+  graph:
+    if: github.repository == 'vixttha/Converium-HQ' && github.event.repository.private == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    env:
+      PYTHONHASHSEED: '0'
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Fetch exact reviewed requirements and verify Git blob
+        run: |
+          curl --fail --silent --show-error --location --retry 2 https://raw.githubusercontent.com/vixttha/Blender-Agent-Refinement-Toolkit/6af3c2025be3f51e02dca4e4502088c526aae6d1/versions/v0.0.8/requirements.txt -o "$RUNNER_TEMP/graphify-lock.txt"
+          test "$(git hash-object "$RUNNER_TEMP/graphify-lock.txt")" = 7fb87d30171f43c660d6c901e6bf5639bf6b75fa
+          python3 -m venv "$RUNNER_TEMP/graphify-env"
+          "$RUNNER_TEMP/graphify-env/bin/python" -m pip install --require-hashes --no-cache-dir --only-binary=:all: --no-deps -r "$RUNNER_TEMP/graphify-lock.txt"
+          "$RUNNER_TEMP/graphify-env/bin/python" -m pip check
+      - name: Build and verify actual Graphify output
+        run: |
+          "$RUNNER_TEMP/graphify-env/bin/python" -B tools/graphify_hq.py "$RUNNER_TEMP/converium-graph"
+          "$RUNNER_TEMP/graphify-env/bin/python" -B -m unittest discover -s tests -p test_graphify.py -v
+          test -z "$(git status --porcelain)"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        with:
+          name: converium-graph-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/converium-graph/
+          if-no-files-found: error
