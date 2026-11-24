@@ -1,0 +1,10 @@
+# Development timeline
+
+This is a conservative public-safe historical index, not a claim of every prior conversation or commit.
+
+- November 19–20, 2026: real tool adoption, archive validation and regression tests in Lydite, Veraphify, README HQ and Brand Identity. Provenistem tracks its own development; adopter feedback surfaces actual defects. See [historical dogfooding audit](https://github.com/vixttha/Version-Issues-Hub/tree/9d4699fb5dc8c6fb6b2fe31af0a1bc554f862cf1/ecosystem-validation/HISTORICAL-DOGFOODING.md).
+- November 24: six architectural laws and shared discovery convention integrated in all six source repositories (VIB development candidate only). See [original verification receipt](https://github.com/vixttha/Version-Issues-Hub/tree/9d4699fb5dc8c6fb6b2fe31af0a1bc554f862cf1/ecosystem-validation/VERIFICATION.md).
+- November 24: historical dogfooding audit preserved 23 scoped cases; public source-byte readback and compatibility rerun passed. [Readback](https://github.com/vixttha/Version-Issues-Hub/actions/runs/45358103079) · [Compatibility](https://github.com/vixttha/Version-Issues-Hub/actions/runs/45358103143).
+- November 24: owner selected Converium HQ for durable ecosystem knowledge, retaining all six products as separate repositories. [Initial snapshot](https://github.com/vixttha/Converium-HQ/tree/2c7265cc3bf818246111169317d596ad1e434f9e). Foundation mission [#1](https://github.com/vixttha/Converium-HQ/issues/1).
+
+The original records remain at their source. This timeline does not assert release readiness or causality from historical observations.
