@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "merged_pr": 8,
+  "head": "def03cac12cdfc74a132275bfcb889dede5465f3",
+  "main": "b913f99149d1e9ac44727a1226fafef2f2f1d9a1",
+  "tree": "da645ceb1867318f4968913e25c9c196a96b5343",
+  "runs": [
+    {
+      "id": 45383486121,
+      "job": 138408301184,
+      "tests": 14,
+      "conclusion": "success"
+    },
+    {
+      "id": 45383486118,
+      "job": 138408300409,
+      "tests": 6,
+      "conclusion": "success"
+    }
+  ],
+  "coderabbit": {
+    "comment": 7129611980,
+    "actionable": 0,
+    "excluded_svg": 3,
+    "scope": "assessed changes only"
+  },
+  "accepted_milestones": [
+    "v0.0.1",
+    "v0.0.2",
+    "v0.0.3",
+    "v0.0.4",
+    "v0.0.5"
+  ],
+  "pending": [
+    "fresh-chatgpt",
+    "brand-selection",
+    "name-clearance",
+    "rights",
+    "commercial-owner-decision",
+    "baseline-owner-acceptance"
+  ],
+  "baseline_accepted": false
+}

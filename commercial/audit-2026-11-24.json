@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "observed_date": "2026-11-24",
+  "source": "b913f99149d1e9ac44727a1226fafef2f2f1d9a1",
+  "scope": "Read-only source notice and release inventory; not legal clearance",
+  "products": [
+    {
+      "id": "vib",
+      "repository": "vixttha/Version-Issues-Hub",
+      "commit": "4fc9ac47462101b941ea2f78fc939d42a9de0032",
+      "notice": null,
+      "status": "no-product-level-grant-observed",
+      "live_ref_matches_registry": true,
+      "release": null,
+      "open_scope": "No GitHub release; #37 independent host/remote acceptance, #36 read-only stability, #34 optional gate race (not mandatory), PR #2 open."
+    },
+    {
+      "id": "provenistem",
+      "repository": "vixttha/Provenistem",
+      "commit": "d64d0c73538e79af0292642c1f23bafe2e979ec0",
+      "notice": {
+        "path": "packages/provenistem/LICENSE",
+        "blob": "2fca5f35039b9b1eb3c3d193219411a9cf0765f1",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required",
+      "live_ref_matches_registry": true,
+      "release": null,
+      "open_scope": "No GitHub release; #2–4 open installer/index/duplicate-key defects."
+    },
+    {
+      "id": "lydite",
+      "repository": "vixttha/Lydite-Test-Vault-Template",
+      "commit": "eae4c9d9d56ed132b400d7c0f56a9babfe5cba07",
+      "notice": {
+        "path": "starter/test-vault/LICENSE",
+        "blob": "30e65839065c0ea88ca00a2de47d65de4313e154",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required",
+      "live_ref_matches_registry": true,
+      "release": {
+        "id": "lydite",
+        "tag": "v0.0.4",
+        "commit": "87d25d80d3154d295052412b64b29a0f0f152c27",
+        "run": 44506598515,
+        "package": "starter/test-vault/",
+        "files": 15,
+        "notice_blob": "30e65839065c0ea88ca00a2de47d65de4313e154"
+      },
+      "open_scope": "Release v0.0.4; #117 zero passing tests can report PASS, #118–120 and many audit issues; PR #40 repair candidate open."
+    },
+    {
+      "id": "veraphify",
+      "repository": "vixttha/Veraphify",
+      "commit": "add4a029312c958a5e126990fc49e802c0112c27",
+      "notice": {
+        "path": "LICENSE",
+        "blob": "1466aeaa07d9f7fd502ca697353b5feace5f4e5a",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required",
+      "live_ref_matches_registry": true,
+      "release": null,
+      "open_scope": "No GitHub release; PR #48 first-party archive candidate open; #29 reuse terms, #36 clean-checkout release, #47 archive identity and #63–69 branch boundaries."
+    },
+    {
+      "id": "readme-hq",
+      "repository": "vixttha/README-HQ",
+      "commit": "b1bbc9a72a5193afcaeaf823f097753070bfa43f",
+      "notice": null,
+      "status": "no-product-level-grant-observed",
+      "live_ref_matches_registry": true,
+      "release": null,
+      "open_scope": "No GitHub release; PR #68 and repair batches #141–151 open, #135 dependency advisory and #129 false-positive smoke; open issue results first page only."
+    },
+    {
+      "id": "brand-identity",
+      "repository": "vixttha/Brand-Identity-Template",
+      "commit": "74a4666404fb4aa427881d0907cacbc8c65e2cfc",
+      "notice": {
+        "path": "brand-identity/LICENSE",
+        "blob": "3a31b6b1dcedea9bb0ca27243d3d7b0cb504a4f5",
+        "observed": "MIT"
+      },
+      "status": "notice-observed-scope-review-required",
+      "live_ref_matches_registry": true,
+      "release": {
+        "id": "brand-identity",
+        "tag": "v0.0.2",
+        "commit": "87d0f9aedbe69ca4b16815d6b3329efcf5889da9",
+        "run": 44499438408,
+        "package": "brand-identity/",
+        "files": 18,
+        "notice_blob": "3a31b6b1dcedea9bb0ca27243d3d7b0cb504a4f5"
+      },
+      "open_scope": "Release v0.0.2; #5 conversion, #11 license shipping, #25 duplicate approvals and #27 broken anchors remain open."
+    }
+  ],
+  "hq_license": "No root license observed in integrated tree; owner decision needed",
+  "release_zip_bytes_verified": false,
+  "ownership_verified": false,
+  "distribution_approved": false
+}

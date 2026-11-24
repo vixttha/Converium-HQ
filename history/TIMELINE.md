@@ -11,4 +11,6 @@ This is a conservative public-safe historical index, not a claim of every prior 
 
 - November 24: Graphify projection built and verified (41 nodes, 99 edges), Notion dashboard created, independent recovery rubric prepared, brand concepts and commercial strategy drafted. See [state](../STATE.md) and [roadmap](../roadmap/README.md). Candidate work is not accepted integration.
 
+- November 24: PR #8 integrated at `b913f99149d1e9ac44727a1226fafef2f2f1d9a1`; both main workflows passed. Graphify and Notion milestones closed; recovery and creative/commercial gates retained. See [baseline review](../baseline/ACCEPTANCE.md). Notion expanded with six product pages and two navigation pages.
+
 The original records remain at their source. This timeline does not assert release readiness or causality from historical observations.
