@@ -8,7 +8,9 @@ Six independent products; shared knowledge, not shared software architecture. Th
 ## Evidence already established
 23 dogfooding cases, 14 directed cross-product operational relationships, 22 distinct source files, 21 historical workflow runs. The latest historical evidence readback and compatibility runs succeeded at the exact originating revision (see [evidence](evidence/README.md)). All 63 nonempty combinations plus zero-tool baseline, 192 native smoke checks, two negative controls. This is mechanical fixture coexistence, not 63 live remote installs or universal interoperability. Practical usefulness demonstrated; quantitative comparative productivity improvement not established.
 
-## Candidate v0.0.4–v0.0.8
+## Integrated knowledge expansion and residual gates
+
+PR #8 merged at `b913f99149d1e9ac44727a1226fafef2f2f1d9a1`; main checks 45383486121 and 45383486118 passed. See [baseline receipt](baseline/receipt.json). v0.0.4 and v0.0.5 accepted; issues #3 and #4 closed. Other milestone artifacts integrated, their acceptance gates remain open.
 
 - [Graphify #3](https://github.com/vixttha/Converium-HQ/issues/3): 41 nodes / 99 edges; 14 operational relationships; [public verification](graphify/VERIFICATION.md).
 - [Notion #4](https://github.com/vixttha/Converium-HQ/issues/4): private dashboard created and read back; [navigation guidance](notion/README.md).
@@ -17,4 +19,5 @@ Six independent products; shared knowledge, not shared software architecture. Th
 - [Commercial #7](https://github.com/vixttha/Converium-HQ/issues/7): [strategy](commercial/README.md) and rights inventory prepared; owner decisions and launch gates pending.
 
 ## Next scope
-Validate the combined candidate and review actual recovery results. Do not infer owner merge/release approval or modify individual products. v0.1.0 remains planned; not authorized by candidate completion.
+
+[Baseline issue #9](https://github.com/vixttha/Converium-HQ/issues/9) and [acceptance packet](baseline/ACCEPTANCE.md). Fresh ChatGPT [trial gate](recovery/FINAL-TRIAL.md), owner brand and rights decisions, commercial pilot review. [Benchmark #10](benchmarks/README.md) ongoing, no comparative coding results yet. Do not infer acceptance or modify individual products. No stable v0.1.0 tag/release.
