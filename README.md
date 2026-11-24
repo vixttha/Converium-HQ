@@ -13,8 +13,9 @@ Converium is the knowledge headquarters for six independent engineering products
 - [Evidence library](evidence/README.md) — actual dogfooding, compatibility and benchmark evidence.
 - [Roadmap](roadmap/README.md) — HQ maturity, independent of product versions.
 - [Latest handoff](handoffs/LATEST.md).
+- [Graphify mapping plan](graphify/PLAN.md).
 
 ## Scope
 Each product remains independently installable, usable, versioned and maintained. Read-only references are optional. No install of Converium HQ is required to use any product. Standard GitHub public runners verify this repository's public knowledge records, not product release eligibility.
 
-**Status:** foundation candidate v0.0.1–v0.0.3; owner review required for integration. Historical evidence is available at its [original source](https://github.com/vixttha/Version-Issues-Hub/tree/9d4699fb5dc8c6fb6b2fe31af0a1bc554f862cf1/ecosystem-validation). No commercial launch or new product release.
+**Status:** foundation v0.0.1–v0.0.3 accepted on main; v0.0.4 Graphify mapping in development. Historical evidence is available at its [original source](https://github.com/vixttha/Version-Issues-Hub/tree/9d4699fb5dc8c6fb6b2fe31af0a1bc554f862cf1/ecosystem-validation). No commercial launch or new product release.

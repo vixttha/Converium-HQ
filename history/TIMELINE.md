@@ -7,4 +7,6 @@ This is a conservative public-safe historical index, not a claim of every prior 
 - November 24: historical dogfooding audit preserved 23 scoped cases; public source-byte readback and compatibility rerun passed. [Readback](https://github.com/vixttha/Version-Issues-Hub/actions/runs/45358103079) · [Compatibility](https://github.com/vixttha/Version-Issues-Hub/actions/runs/45358103143).
 - November 24: owner selected Converium HQ for durable ecosystem knowledge, retaining all six products as separate repositories. [Initial snapshot](https://github.com/vixttha/Converium-HQ/tree/2c7265cc3bf818246111169317d596ad1e434f9e). Foundation mission [#1](https://github.com/vixttha/Converium-HQ/issues/1).
 
+- November 24: owner accepted foundation PR #2; merged at `dc77ba9abe1e18fb9d27a12814213ce9acded31a`. [Main CI passed](https://github.com/vixttha/Converium-HQ/actions/runs/45376454437), issue #1 closed. Graphify mapping intake opened under [issue #3](https://github.com/vixttha/Converium-HQ/issues/3).
+
 The original records remain at their source. This timeline does not assert release readiness or causality from historical observations.

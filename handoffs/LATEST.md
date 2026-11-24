@@ -1,7 +1,7 @@
-# Latest handoff — foundation mission
+# Latest handoff — v0.0.4 intake
 
-Head: owner-directed HQ-only scope. Worker: preserve law, registry and evidence in review branch. Validate: GitHub public hosted checks, source and manifest verification. Internal Auditor: reconcile results, exact source and product authority. Head: return evidence for owner integration decision.
+Foundation accepted by owner and merged via [PR #2](https://github.com/vixttha/Converium-HQ/pull/2) at `dc77ba9abe1e18fb9d27a12814213ce9acded31a`. Exact merged tree matches the candidate; [main verification](https://github.com/vixttha/Converium-HQ/actions/runs/45376454437) passed. [Issue #1](https://github.com/vixttha/Converium-HQ/issues/1) closed completed.
 
-Read [current state](../STATE.md), [constitution](../CONSTITUTION.md), [decision ledger](../history/DECISIONS.md), [product registry](../products/README.md), [evidence](../evidence/README.md) and [roadmap](../roadmap/README.md). Canonical issue: [#1](https://github.com/vixttha/Converium-HQ/issues/1). Branch: foundation/v0.0.1-v0.0.3.
+Head: initiate authorized Graphify mapping. Worker: implement only HQ-local, read-only mapping from canonical records. Validate: public hosted runners, revision-bound graph and receipt with negative controls. Internal Auditor: verify graph/source parity, relationship semantics and six-law boundaries. Head: return for owner review. No product mutations or release.
 
-Next authorized action: finish and validate foundation; do not release or change product repositories. Next proposed milestone: Graphify v0.0.4 after foundation review. Fresh independent recovery remains to be tested in v0.0.6.
+Active issue: [#3](https://github.com/vixttha/Converium-HQ/issues/3); branch `work/v0.0.4-graphify`. [Mapping plan](../graphify/PLAN.md). Implementation and graph verification are pending. Read [state](../STATE.md), [constitution](../CONSTITUTION.md), [registry](../products/README.md) and [evidence](../evidence/README.md). Later milestones remain planned.
