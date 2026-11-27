@@ -14,7 +14,7 @@ Observed 2026-11-26. Issue/version assignments, staged handoffs, acceptance and 
 | Entry blob | `1e30ba7629635d7267ec6f062187e78df584eabf` |
 | Latest numbered development checkpoint | v0.0.0.43 |
 | Working branch | `plan/checkpoint-v0.0.0.43` |
-| Working revision | [98b2e730b6516250f0c4b02f80236462cb359b53](https://github.com/vixttha/Version-Issues-Hub/tree/98b2e730b6516250f0c4b02f80236462cb359b53) |
+| Working revision | [730f3dccf9a6db5e8fa4f8c9d129e7e0376bde23](https://github.com/vixttha/Version-Issues-Hub/tree/730f3dccf9a6db5e8fa4f8c9d129e7e0376bde23) |
 | Open review | [PR #97](https://github.com/vixttha/Version-Issues-Hub/pull/97) |
 
 ## Findings and limitations
