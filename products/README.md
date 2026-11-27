@@ -1,5 +1,7 @@
 # Product registry
 
+**Latest observed versions (2026-11-26):** [six-tool current snapshot](observations/2026-11-26/README.md) · [machine-readable records](observations/2026-11-26/registry.json). The November 24 table below is the accepted historical baseline; do not use it as the current version list.
+
 Six independent products. Observed November 24, 2026; verify live refs before work. No product depends on Converium HQ or any other ecosystem tool. Product versions and releases belong to their repositories.
 
 | Product | Responsibility | Observed version | Source repository |
