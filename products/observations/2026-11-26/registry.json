@@ -18,7 +18,7 @@
       "release": null,
       "development": "v0.0.0.43",
       "candidate_branch": "plan/checkpoint-v0.0.0.43",
-      "candidate_sha": "98b2e730b6516250f0c4b02f80236462cb359b53",
+      "candidate_sha": "730f3dccf9a6db5e8fa4f8c9d129e7e0376bde23",
       "candidate_pr": 97,
       "details": "PR #95 merged .42 into the engineering branch; PR #97 is an open draft for #96, not a merge candidate. PR #2 is still open against main. The ledger at the engineering pin still reports .42 in_progress despite the completed issue; do not infer canonical closure reconciliation from the issue alone. Main pin 1b11865f79464ae7db9a648467e8c2c1cb898a02. Engineering LICENSE contains PolyForm Strict 1.0.0; no production licensing or distribution conclusion.",
       "proof": [
